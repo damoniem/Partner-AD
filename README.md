@@ -1,0 +1,2 @@
+# Partner-AD
+Partner Repo
