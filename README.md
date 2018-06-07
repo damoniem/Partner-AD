@@ -2,6 +2,9 @@
 Partner Repo
 hey, friend
 
+Hi :)
+
+
 It's badiah. yay!
 
 Hola, me llamo Carley.
